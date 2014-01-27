@@ -1,0 +1,9 @@
+Building pNut
+
+See doc/readme-qt.rst for instructions on building pNut-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of pNut.
+
+See doc/build-*.txt for instructions on building pnutd,
+the intended-for-services, no-graphical-interface, reference
+implementation of pNut.
